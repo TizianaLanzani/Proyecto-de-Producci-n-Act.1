@@ -3,11 +3,11 @@ Wordle
 
 Integrantes: Lanzani Tiziana, Ojea Matías, Vega Catalina y Villarroel Bruno.
 
-Funciones adicionales:
-El programa obtiene las palabras desde un archivo de texto, base de datos, internet, etc.
-Mostrar el tiempo de juego. 
-Limitar el tiempo de juego.
-Animación de texto al ganar o quedarse sin tiempo.
+Funciones adicionales: <br />
+El programa obtiene las palabras desde un archivo de texto, base de datos, internet, etc.<br />
+Mostrar el tiempo de juego. <br />
+Limitar el tiempo de juego.<br />
+Animación de texto al ganar o quedarse sin tiempo.<br />
 
 . Ejecutar el archivo en Visual Studio Code <br />
 . El programa recibe las palabras de un archivo .txt(el cual tiene que estar en la misma carpeta)<br />
